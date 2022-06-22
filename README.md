@@ -1,4 +1,14 @@
-# mev-inspect-py
+# Fork of mev-inspect-py
+
+Modified to use VSCode and Rancher Desktop
+
+# Install Primary Dependencies
+VScode
+Rancher Desktop
+Remote Development (extension pack)
+
+
+# Install
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 [![Discord](https://img.shields.io/discord/755466764501909692)](https://discord.gg/7hvTycdNcK)
