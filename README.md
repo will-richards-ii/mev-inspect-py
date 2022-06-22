@@ -3,9 +3,9 @@
 Modified to use VSCode and Rancher Desktop
 
 # Install Primary Dependencies
-VScode
-Rancher Desktop
-Remote Development (extension pack)
+- VScode
+- Rancher Desktop
+- Remote Development (extension pack)
 
 
 # Install
